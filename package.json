@@ -1,0 +1,23 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "This is node CURD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantkendre/node-curd.git"
+  },
+  "author": "Hemant Kendre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantkendre/node-curd/issues"
+  },
+  "homepage": "https://github.com/hemantkendre/node-curd#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
